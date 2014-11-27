@@ -10,7 +10,9 @@ The application can be executed on any platform provided that Java has been inst
 
 To execute Sequescence, place the .jar file and the sequence alignment in the same directory. From a command line in the directory, type the following:
 
+```
 java –jar Sequescence.jar
+```
 
 The application will prompt the user for the following:
 
