@@ -25,7 +25,7 @@ public class Main {
         System.out.println("");
         System.out.println("+-----------------------------------+");
         System.out.println("|          * Sequescence *          |");
-        System.out.println("|     Sequence Ageing Programme     |");
+        System.out.println("|      Sequence Ageing Program      |");
         System.out.println("|            Version 1.0            |");
         System.out.println("+-----------------------------------+");
         System.out.println("\nAlignment should be in FASTA format, with each sequence on its own, single line.");
